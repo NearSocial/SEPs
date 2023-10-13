@@ -57,7 +57,7 @@ To submit a SEP draft as a pull request, the SEP author should:
 ### NEP Stages
 
 - **Draft:** The first formally tracked stage of a new SEP. This process begins once an author submits a draft proposal and an SEP moderator merges it into the SEP repo when properly formatted.
-- **Review:** A SEP moderator marks a SEP as ready for Subject Matter Experts Review. If the SEP is not approved within two months, it is automatically rejected. During this review time, the accompanying prototype(s) should be fully implemented and made available to the reviewers.
+- **Review:** A SEP moderator marks a SEP as ready for Subject Matter Experts Review. If the SEP is not approved within two months, it is automatically rejected. During this review time, the accompanying prototype(s) should be fully implemented and made available to the reviewers, and the corresponding PR(s) into nearsocial/standards should be submitted.
 - **Voting:** This is the final voting period for a SEP. The working group will vote on whether to accept or reject the SEP. This period is limited to two weeks. If during this period necessary normative changes are required, the SEP will revert to Review.
 
 Moderator, when moving a SEP to review stage, submit a Pull Request to update the SEP's status to `Review`
